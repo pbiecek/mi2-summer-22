@@ -13,6 +13,5 @@ Add at least following information:
 ## List of the proposals for MI2 summer interns 22
 1. [Solving Kandinsky Patterns with human-readable explanations of neural networks](https://github.com/pbiecek/mi2-summer-22/blob/main/kandinsky-patterns.md); [Hubert Baniecki](http://hbaniecki.com)
 2. [Explainable expected goals models for football analytics](https://github.com/mcavs/mi2-summer-22/blob/main/explainable_xG_models.md); [Mustafa Cavus](https://www.researchgate.net/profile/Mustafa-Cavus-2)
-3. [Explainable machine learning models for the prediction of the statistical test performance
-](https://github.com/mcavs/mi2-summer-22/blob/main/explainable_ML_power_prediction.md); [Mustafa Cavus](https://www.researchgate.net/profile/Mustafa-Cavus-2)
+3. [Explainable machine learning models for the prediction of the statistical test performance](https://github.com/mcavs/mi2-summer-22/blob/main/explainable_ML_power_prediction.md); [Mustafa Cavus](https://www.researchgate.net/profile/Mustafa-Cavus-2)
 
