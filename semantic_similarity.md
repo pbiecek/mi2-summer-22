@@ -29,13 +29,15 @@ The project is oriented towards the key step of defining similarity between data
 -   designing machine learning experiments and reporting the results
     
 -   acquaintance with the subject of meta-learning and autoML
+
+-   key aspects of scientific communication and research work
     
 
 ### Requirements:
 
 -   R/Python
     
--   basic knowledge of machine learning modelling
+-   basic knowledge of machine learning modelling - boosting models
     
 
   
