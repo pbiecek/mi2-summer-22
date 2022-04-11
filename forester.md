@@ -13,8 +13,11 @@ Today, much of the focus in data science is on producing the best results in the
 The goal is to prepare an R `forester` package that supports the preparation of tree-based models in an automated way. 
 
 Aspects of the work:
+
 - fully implemented ML models , documentation, tests and a website describing the solution
+- 
 (\*) additional elements related to autoEDA
+
 (\*) running quality experiments on the solution
 
 ### What will the intern(s) learn during the summer project?
