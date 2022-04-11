@@ -15,3 +15,4 @@ Add at least following information:
 2. [Explainable expected goals models for football analytics](https://github.com/mcavs/mi2-summer-22/blob/main/explainable_xG_models.md); [Mustafa Cavus](https://www.researchgate.net/profile/Mustafa-Cavus-2)
 3. [Explainable machine learning models for the prediction of the statistical test performance](https://github.com/mcavs/mi2-summer-22/blob/main/explainable_ML_power_prediction.md); [Mustafa Cavus](https://www.researchgate.net/profile/Mustafa-Cavus-2)
 4. [survxai 1.0 - implementation of the new version of the R package for explaining the survival analysis models](https://github.com/krzyzinskim/mi2-summer-22/blob/main/survxai.md); [Mateusz Krzyziński](https://www.mi2.ai/the-team.html#mateusz-krzyziński)
+5. [Trees are all you need - Automated machine learning based on tree models](https://github.com/pbiecek/mi2-summer-22/blob/main/forester.md); [Anna Kozak](https://www.mi2.ai/the-team.html#anna-kozak)
