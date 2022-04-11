@@ -2,7 +2,7 @@
 Mentor: Anna Kozak, [Google Scholar](https://scholar.google.pl/citations?user=JIrqf9kAAAAJ), [GitHub](https://github.com/kozaka93), [LinkedIn](https://www.linkedin.com/in/kozakanna)
 
 **TL;DR**: Work based on writing a R package to automatically build tree models. More about [forester](https://github.com/ModelOriented/forester).
-<img src="images/forester_graph.png" align="center" width="900"/>
+<img src="images/forester_graph.png" align="center" width="600"/>
 
 ### Why is the project important?
 
