@@ -5,7 +5,7 @@
 **Support mentor:** [Hubert Baniecki](https://hbaniecki.com)
 
 ## What is the project about?
-This project aims to create an R package with explainable artificial intelligence methods directly targeting survival analysis models. 
+This project aims to create an R package with explainable artificial intelligence methods directly targeting machine learning survival analysis models. 
 It will be a new, refreshed version of the existing [**survxai** package](https://mi2datalab.github.io/survxai/) extended with new functionalities. 
 In addition, **survStudio** - the tool that automates the explanatory analysis of survival models - 
 will be built on its basis (based on [modelStudio](https://modelstudio.drwhy.ai)).
@@ -30,13 +30,13 @@ It motivates the development of explanation methods explicitly designed to evalu
 Unfortunately, the common problem is that the methods described in the literature are often not available for easy use 
 due to the lack of open-source packages.
 
-For more information, please refer to the [article](https://medium.com/responsibleml/responsible-machine-learning-for-survival-analysis-e0a24939d49f).
+For more information, please refer to the article [_Responsible Machine Learning for Survival Analysis_](https://medium.com/responsibleml/responsible-machine-learning-for-survival-analysis-e0a24939d49f).
 
 ## Why is the project important?
+- Currently, there is still no alternative R or Python package offering a range of explanations for survival analysis models.
 - In the case of survival analysis, which is often used in the medicine or insurance industry, responsible modeling is crucial. 
 - The package for explaining the survival analysis models is handy. 
 The old version of the package, although not regularly updated, is still used by users, as evidenced by 15K downloads and recently created issues.
-- There is still no alternative package offering a range of explanations for survival analysis models.
 - After improving the style of the charts in line with Dr. Why Styleguide (DALEX style), the package's visual explanations can be used more often in research papers. 
 One of the most popular packages related to survival analysis is [survminer](https://rpkgs.datanovia.com/survminer/), 
 which allows to make nice visuzalizations easily and evaluate a simple Cox model.
@@ -44,7 +44,7 @@ which allows to make nice visuzalizations easily and evaluate a simple Cox model
 ## What shall be completed by the end of the project?
 - Updating the survxai package to the DALEX-compatible version (in terms of the logic/structure, the way of usage, and the style of the created visual explanations); 
 the way it is used and the style of the created visual explanations);
-- Adding new types of explanations to the package - e.g., survSHAP (currently the method under development),
+- Adding new types of explanations to the package - e.g., survSHAP (the newly created method; paper is in preparation),
 [survLIME](https://www.sciencedirect.com/science/article/abs/pii/S0950705120304044?dgcid=rss_sd_all);
 - Updating the package documentation and creating new vignettes;
 - Experiments related to the application of functional data analysis to explain survival models and the use-cases of the package;
@@ -58,4 +58,4 @@ the way it is used and the style of the created visual explanations);
 
 ## Follow-up possibilities
 - Collaborating on writing a paper describing the package.
-- Further development of survStudio tool.
+- Further development of the survStudio tool.
