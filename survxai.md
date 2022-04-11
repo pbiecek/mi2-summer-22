@@ -18,6 +18,10 @@ However, due to the presence of **censored data**, regression is not an appropri
 The most common type of censoring is right-censoring — which means that part of the population did not experience the event during the study (data collection). 
 Survival analysis models have been developed to deal with such data.
 
+<p align="center">
+  <img src="https://miro.medium.com/max/1400/1*dSBuk-RBBxeyYfRfQPaeQQ.png" />
+</p>
+
 #### eXplainable AI in survival analysis
 The flexibility of machine learning models is expected to lead to more accurate predictions than classical statistical models. 
 However, ML models often work as black-box models. Hence, it is essential to be able to explain their decisions. 
@@ -36,7 +40,6 @@ The old version of the package, although not regularly updated, is still used by
 - After improving the style of the charts in line with Dr. Why Styleguide (DALEX style), the package's visual explanations can be used more often in research papers. 
 One of the most popular packages related to survival analysis is [survminer](https://rpkgs.datanovia.com/survminer/), 
 which allows to make nice visuzalizations easily and evaluate a simple Cox model.
-
 
 ## What shall be completed by the end of the project?
 - Updating the survxai package to the DALEX-compatible version (in terms of the logic/structure, the way of usage, and the style of the created visual explanations); 
