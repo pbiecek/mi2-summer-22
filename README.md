@@ -1,6 +1,6 @@
 # Summer internships at MI² in 2022
 
-I'm glad you're interested in internships within the MI2 team.
+I'm glad you're interested in internships within the MI² team.
 See https://github.com/pbiecek/mi2-summer-22 for a list of open topics to work on this summer.
 The deadline for applications is May 8, 2022 - end of day.
 If you would like to learn more about any of the projects then please contact the mentor for that particular project.
