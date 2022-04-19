@@ -1,16 +1,13 @@
-# Summer internships at MI2 in 2022
+# Summer internships at MI² in 2022
 
-Please add your project proposal as separate md files, and link to it in the README.md
-Add at least following information:
+I'm glad you're interested in internships within the MI2 team.
+See https://github.com/pbiecek/mi2-summer-22 for a list of open topics to work on this summer.
+The deadline for applications is May 8, 2023 - end of day.
+If you would like to learn more about any of the projects then please contact the mentor for that particular project.
 
-- title of the project
-- name of the mentor (your name)
-- short description why is the project important
-- short description what shall be completed by the end of the project
-- short description what inter/interns will learn during the summer project
-- short description if there is any possibility for follow-up (publication, diploma thesis, so on)
+Please apply with this form: https://forms.gle/qsuiwg3xYFLdQGyZ6
 
-## List of the proposals for MI2 summer interns 22
+## List of the proposals for MI2 summer internships 
 
 |  ID  |  Topic  |  Mentor  |
 |----------|:-------------|------:|
