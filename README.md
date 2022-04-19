@@ -2,7 +2,7 @@
 
 I'm glad you're interested in internships within the MI2 team.
 See https://github.com/pbiecek/mi2-summer-22 for a list of open topics to work on this summer.
-The deadline for applications is May 8, 2023 - end of day.
+The deadline for applications is May 8, 2022 - end of day.
 If you would like to learn more about any of the projects then please contact the mentor for that particular project.
 
 Please apply with this form: https://forms.gle/qsuiwg3xYFLdQGyZ6
